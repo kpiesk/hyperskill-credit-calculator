@@ -7,12 +7,12 @@
 
 **Learning Outcomes:** Along with doing the project itself and completing numerous problems, I was learning more about functions, string formatting, comparisons, typecasting, conditional statements, loops, and loop control statements in Python. I learnt how to use mathematics and Python in everyday tasks, how to use modules and libraries, and I gained knowledge of errors and error handling in Python. I advanced my skills in using the command line and command-line arguments to run Python programs.
 
-**FYI:** Examples of running the program:  
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         ``` python credit_calculator.py --type=diff --principal=1000000 --periods=10 --interest=10 ```  
+**FYI:** Examples of running the program:   
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          ``` python credit_calculator.py --type=annuity --principal=1000000 --periods=60 --interest=10 ```  
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          ``` python credit_calculator.py --type=annuity --payment=8722 --periods=120 --interest=5.6 ```  
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         ``` python credit_calculator.py --type=annuity --principal=500000 --payment=23000 --interest=7.8 ```
+         ``` python credit_calculator.py --type=annuity --principal=500000 --payment=23000 --interest=7.8 ```  
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         ``` python credit_calculator.py --type=diff --principal=1000000 --periods=10 --interest=10 ``` 
