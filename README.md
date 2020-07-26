@@ -1,7 +1,7 @@
 # hyperskill-python-simple-credit-calculator
 ### My Credit Calculator project as part of the Hyperskill Jetbrains Academy Python Developer course.
 
-**Project Number**: #3
+**Project Number:** #3
 
 **About:** A credit calculator program that is run via the command line using command-line arguments. The program is able to calculate credit principal, count of periods and monthly payment for annuity payment, and also has the capacity to compute the differentiated payment. The program also calculates the overpayment.
 
