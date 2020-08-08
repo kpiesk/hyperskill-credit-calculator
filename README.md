@@ -1,4 +1,4 @@
-# hyperskill-python-simple-credit-calculator
+# hyperskill-simple-credit-calculator
 ### My Credit Calculator project as part of the Hyperskill Jetbrains Academy Python Developer course.
 
 **Project Number:** #3
